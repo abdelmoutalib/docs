@@ -89,7 +89,7 @@ For more information, see "[Docker login](https://docs.docker.com/engine/referen
 
 {% note %}
 
-**Note:** Image names must only use lowercase letters.
+**Note:** Image names must only use lowercase letters. 
 
 {% endnote %}
 
